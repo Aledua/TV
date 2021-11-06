@@ -1,5 +1,4 @@
-#EXTM3U
-
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml"
 #EXTINF:-1 tvg-id=TVN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 #EXTINF:-1 tvg-id=Tv Azteca
