@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="MX.m3u"
-#EXTINF:-1 tvg-id="117595" tvg-name="Central FM" tvg-logo="https://lh3.googleusercontent.com/-qm6BX63e8LE/X9X_3tLY7NI/AAAAAAAA8K0/Xtz_7wkyE6otRbAbsE45kqGNT80yLF8IACK8BGAsYHg/s0/2020-12-13.png", Central FM
-https://5ca39be538307.streamlock.net:443/centralfm/videocentralfm/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="117595" tvg-name="Azteca" tvg-logo="https://lh3.googleusercontent.com/-qm6BX63e8LE/X9X_3tLY7NI/AAAAAAAA8K0/Xtz_7wkyE6otRbAbsE45kqGNT80yLF8IACK8BGAsYHg/s0/2020-12-13.png", Central FM
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="117594" tvg-name="Impactovision" tvg-logo="https://lh3.googleusercontent.com/-LPYRCJGmVtk/X9X9vaIBZzI/AAAAAAAA8KY/kG5yXTQUWjAN_kBNG-un_YF0MOyzCRAXgCK8BGAsYHg/s0/2020-12-13.webp", Impactovision
 https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="114051" tvg-name="Teleplay" tvg-logo="https://lh3.googleusercontent.com/-REFH6RkuaQ0/X5wY1UPCWqI/AAAAAAAA63w/-tUyjCx_2PUJrqQuDXUxiRnf6HLXy-zMQCK8BGAsYHg/s0/2020-10-30.png", Teleplay
