@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,TVN
+#EXTINF:-1 tvg-id=TVN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
-#EXTINF:-1,Tv Azteca
+#EXTINF:-1 tvg-id=Tv Azteca
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
