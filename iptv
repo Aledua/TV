@@ -17,3 +17,7 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1,Telemetro Radio
+https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
+
