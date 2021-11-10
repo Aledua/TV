@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", TV Azteca | HD
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/84/6c/cde3ad04432cbccd772588a79542/1.%20LogoTVASitioOK.png" group-title="Mexico, TV Azteca
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="Panama", RPC
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="Panama", TVN
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
