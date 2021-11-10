@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/84/6c/cde3ad04432cbccd772588a79542/1.%20LogoTVASitioOK.png" group-title="Mexico, TV Azteca
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/TV_Azteca_%282015%29.svg" group-title="México", TV Azteca
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="Panama", RPC
+#EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="Panamá", RPC
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="Panama", TVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TVN_logo.svg" group-title="Panamá", TVN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 
-#EXTINF:-1 group-title="Panama",TV Max
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TVMax_2016.svg" group-title="Panamá", TV Max
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="Internacional",EURONEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Euronews_logo.svg" group-title="Internacional", EURONEWS
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Internacional",DW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="Internacional", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Panama",Telemetro Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Logo-telemetro.svg" group-title="Panamá", Telemetro Radio (Solo Audio)
 https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
 
-#EXTINF:-1 group-title="Panama",RPC Radio (Solo Audio)
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ha/283853/svg/283853.svg" group-title="Panamá", RPC Radio (Solo Audio)
 https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
